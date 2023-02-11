@@ -1,0 +1,8 @@
+x = 0
+l = list('ABCDEFGH')
+for x in l:
+  if x[1] = B:
+    print('x within range')
+  else:
+    print('x not in range')
+print('THANK YOU')
