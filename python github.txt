@@ -1,0 +1,6 @@
+while 1:
+    marks = int(input('\nEnter marks: '))
+    if marks > 40:
+        print('Pass')
+    else:
+        print('Fail')
